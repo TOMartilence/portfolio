@@ -1,0 +1,50 @@
+.education-container {
+    padding: 2rem;
+    background: #f8f8f8;
+    color: #333;
+    font-family: Arial, sans-serif;
+  }
+  
+  .section-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    text-align: center;
+    color: #444;
+  }
+  
+  .education-section, .experience-section {
+    margin-bottom: 2rem;
+  }
+  
+  .education-item, .experience-item {
+    background: #fff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .education-degree, .experience-role {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .education-institute, .experience-organization {
+    font-size: 1rem;
+    font-style: italic;
+    margin-bottom: 0.5rem;
+  }
+  
+  .education-duration, .experience-duration {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 1rem;
+  }
+  
+  .education-description, .experience-description {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  
