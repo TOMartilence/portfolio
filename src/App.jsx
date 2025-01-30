@@ -7,7 +7,6 @@ import './App.css'
 import Projects from './pages/Projects'
 import About from './pages/About'
 import Education from './pages/Education'
-import Footer from './components/Footer'
 
 function App() {
 
@@ -18,7 +17,6 @@ function App() {
       <About style={{"minHeight":"100vh"}}/>
       <Education/>
       <Projects/>
-      <Footer/>
     </>
   )
 }

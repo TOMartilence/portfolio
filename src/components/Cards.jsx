@@ -3,9 +3,9 @@ import "../css/Cards.css"
 function Cards() {
   const projects = [
     {
-      title: "Portfolio Website",
-      description: "A sleek and modern personal portfolio to showcase my work.",
-      technologies: ["React", "CSS", "Tailwind"],
+      title: "WiFi-controlled Data acquisition rover",
+      description: "Used a H-bridge to achieve 4 quadrant operation of a Electric vehicle.",
+      technologies: ["H-bridge", "Mosfet-Driver", "Low-Power electronics","Wifi and data acquisition"],
       link: "#",
     },
     {
